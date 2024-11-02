@@ -1,0 +1,109 @@
+body {
+    background-color: #121212;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    height: 100%;
+    width: 100%;
+}
+* {
+  margin-top: 0px;
+  margin-left: 0px;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+}
+.container02{
+    display: grid;
+    flex-direction: column;
+    gap: 50px;
+}
+#container_Titulo_principal {
+    background-color: #4056a1;
+    color: white;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 20px;
+    padding: 10px;
+    height: 10%;
+    width: 100%;
+}
+.class_Artigo {
+    color: black;
+    background-color: white;
+    text-align: center;
+    padding: 50px;
+    width: 80%;
+}
+.data_post{
+    font-size: 0.8em;
+    display: flex;
+    flex-direction: column;
+}
+.link_titulo_principal {
+    color: azure;
+    text-decoration: none;
+    padding-right: 10px;
+    padding: 8px 10px;
+    border-radius: 20px;
+    margin-right: 2px;
+}
+a:hover {
+    background-color: black;
+}
+nav  {
+    margin-top: 30px;
+    background-color: white;
+    padding-bottom: 5px;
+    white-space: nowrap;
+    max-width: 100%;
+    padding-right: 5px;
+}
+nav a {
+    color: black;
+    text-decoration: none;
+}
+nav a:hover {
+    margin-bottom: 10px;
+    background-color: transparent;
+    border-radius: 10px;
+     padding: 3px 6px;
+}
+#id_Menu_Link {
+    font-size: 30px;
+    padding-right: 50px;
+    font-weight: bold;
+    text-align: center;   
+    background-color: transparent;
+}
+#id_rodape {
+ margin-top: 20px;
+ background-color: #4056a1;
+ padding: 20px 0;
+ text-align: center;
+}
+#container_rodape {
+    max-width: 1200px; 
+    margin: 0 auto;
+}
+#container_rede_social {
+    margin-top: 10px;
+}
+.logo_rodape {
+    height: 30px;
+    width: 30px;
+    align-items: centers;
+}
+.link_logo_rodape {
+    text-decoration: none;
+    background-color: transparent;
+}
+#background_Rodape {
+    padding-top: 10px;
+    width: 100%;
+    background-color: #6476e1;
+}
+.class_Artigo img {
+    height: 383px;
+    width: 612px;
+}
