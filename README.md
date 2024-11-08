@@ -1,7 +1,7 @@
  <h1 align="center"> 
 	Blog Escolar 📖✍
  </h1>
-## Sobre o Projeto:
+### Sobre o Projeto:
 - Este é um projeto simples de blog desenvolvido como parte de um trabalho escolar. O objetivo do projeto é colocar em prática os conhecimentos adquiridos durante os estudos de desenvolvimento web, utilizando HTML, CSS.
 
 ## - Funcionalidades 🛠️⚙️:
